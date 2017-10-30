@@ -19,7 +19,7 @@ weight = 20
 
 # About me
 
-I am a Software developer who loves Javascript, the open web, Mobile, Games and Retro. Being a proud father and I love making music.
+I am a Technical Director and Software Developer who loves Javascript, the open web, mobile, games and retro. Being a proud father and I love making music.
 
 Speaking at conferences, Barcamps and user groups. Feel free to [contact](#contact) me if you think I should speak at your event(s).
 

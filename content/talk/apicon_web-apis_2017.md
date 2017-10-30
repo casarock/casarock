@@ -1,14 +1,13 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
-
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+date = 2017-09-20T21:44:00+02:00 # Schedule page publish date.
+title = "State of Web APIs 2017"
+time_start = 2017-09-20T13:00:00
+time_end = 2017-09-20T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "API Con 2017"
+event_url = "https://apiconference.de"
+location = "Berlin, Germany"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -16,26 +15,25 @@ selected = false
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
-url_video = ""
+url_slides = "https://speakerdeck.com/casarock/apicon-2017-state-of-web-apis"
+url_video = "https://www.youtube.com/watch?v=1KWSSweoTMs"
 url_code = ""
 
 # Does the content use math formatting?
-math = true
+math = false
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 #image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#caption = "My caption :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.

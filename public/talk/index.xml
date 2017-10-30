@@ -11,13 +11,95 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>Everything web and why open matters</title>
+      <link>/talk/ijs_keynote-open-matters_2017/</link>
+      <pubDate>Wed, 25 Oct 2017 21:44:00 +0200</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/talk/ijs_keynote-open-matters_2017/</guid>
+      <description>&lt;p&gt;Slides:
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;09d0544fdc2e4ff79ee940f7861bb02b&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>WebVR - Virtual realities in your browsers</title>
+      <link>/talk/codetalks_webvr2017/</link>
+      <pubDate>Thu, 28 Sep 2017 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/codetalks_webvr2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of Web APIs 2017</title>
+      <link>/talk/apicon_web-apis_2017/</link>
+      <pubDate>Wed, 20 Sep 2017 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/apicon_web-apis_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of WebAPIs</title>
+      <link>/talk/ipc_web-api_2017/</link>
+      <pubDate>Wed, 31 May 2017 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/ipc_web-api_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Headless in the CMS</title>
+      <link>/talk/meetmagento_headless_cms_2017/</link>
+      <pubDate>Tue, 23 May 2017 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/meetmagento_headless_cms_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Always On, oder?</title>
+      <link>/talk/mtechcon_always-on_2017/</link>
+      <pubDate>Wed, 15 Mar 2017 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/mtechcon_always-on_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebVR - Virtual realities in your browsers</title>
+      <link>/talk/ferm_webvr_2017/</link>
+      <pubDate>Thu, 09 Mar 2017 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/ferm_webvr_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Always On! ... or not?</title>
+      <link>/talk/codetalks_always-on_2016/</link>
+      <pubDate>Fri, 30 Sep 2016 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/codetalks_always-on_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebVR - Virtual realities in your browsers</title>
+      <link>/talk/mtechcon_webvr_2016/</link>
+      <pubDate>Wed, 14 Sep 2016 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/mtechcon_webvr_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebVR - Virtual realities in your browsers</title>
+      <link>/talk/jax_webvr_2016/</link>
+      <pubDate>Wed, 20 Apr 2016 21:44:00 +0200</pubDate>
+      
+      <guid>/talk/jax_webvr_2016/</guid>
+      <description></description>
     </item>
     
   </channel>
