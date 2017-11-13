@@ -8,7 +8,7 @@ slug = "pico-8-and-atom"
 tags = ["pico-8", "games", "development"]
 title = "Pico-8 and atom"
 summary = """
-I love [Lexaloffles fantasy console](http://www.lexaloffle.com/pico-8.php). But I would like to use [Atom](https://atom.io/) for coding. Recently I've seen a screenshot by Jacopo Colò on Twitter
+I love [Lexaloffles fantasy console Pico8](http://www.lexaloffle.com/pico-8.php). But I would like to use [Atom](https://atom.io/) for coding. Recently I've seen a screenshot by Jacopo Colò on Twitter
 """
 +++
 
