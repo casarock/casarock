@@ -11,6 +11,19 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>BCRM: Everything web and why open matters</title>
+      <link>/talk/barcamprm-open-web_2017/</link>
+      <pubDate>Mon, 13 Nov 2017 09:30:00 +0200</pubDate>
+      
+      <guid>/talk/barcamprm-open-web_2017/</guid>
+      <description>&lt;p&gt;Talked about Open Web. Basically the same talk as being delivered in Munich.&lt;/p&gt;
+
+&lt;p&gt;Slides:
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;09d0544fdc2e4ff79ee940f7861bb02b&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Everything web and why open matters</title>
       <link>/talk/ijs_keynote-open-matters_2017/</link>
       <pubDate>Wed, 25 Oct 2017 21:44:00 +0200</pubDate>

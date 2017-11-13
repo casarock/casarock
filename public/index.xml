@@ -11,6 +11,19 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>BCRM: Everything web and why open matters</title>
+      <link>/talk/barcamprm-open-web_2017/</link>
+      <pubDate>Mon, 13 Nov 2017 09:30:00 +0200</pubDate>
+      
+      <guid>/talk/barcamprm-open-web_2017/</guid>
+      <description>&lt;p&gt;Talked about Open Web. Basically the same talk as being delivered in Munich.&lt;/p&gt;
+
+&lt;p&gt;Slides:
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;09d0544fdc2e4ff79ee940f7861bb02b&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Everything web and why open matters</title>
       <link>/talk/ijs_keynote-open-matters_2017/</link>
       <pubDate>Wed, 25 Oct 2017 21:44:00 +0200</pubDate>
@@ -238,27 +251,6 @@
 &lt;p&gt;Here is my playground source:&lt;/p&gt;
 
 &lt;script src=&#34;https://gist.github.com/casarock/2e8e7c5247e6300234ad.js&#34;&gt;&lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Links: WebVR</title>
-      <link>/post/links-webvr/</link>
-      <pubDate>Fri, 29 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/post/links-webvr/</guid>
-      <description>&lt;p&gt;A short collection of links about WebVR&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://end3r.com/slides/gic15-webvr/&#34; target=&#34;_blank&#34;&gt;Slides by @end3r&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aframe.io&#34; target=&#34;_blank&#34;&gt;aframe - Building block for WebVR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://webvr.info/&#34; target=&#34;_blank&#34;&gt;General Infos about WebVR&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mozvr.com&#34; target=&#34;_blank&#34;&gt;MozVR - Mozillas WebVR landing page&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/API/WebVR_API&#34; target=&#34;_blank&#34;&gt;WebVR API reference at MDN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://webvr-slack.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;WebVR Slack invitation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;More posts to come as I&amp;rsquo;m a bit into it&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
