@@ -20,4 +20,3 @@ list_format = 0
 
 +++
 
-Be sure you visit my [Lanyrd-Page](http://lanyrd.com/profile/casarock/)!
